@@ -1,0 +1,20 @@
+2025-07-22, 12:52:26.159 http://saleszing.co.in/saleszingrest/webservice/restservice.php?key=8c0e0bd3-a2b1-4fa4-b7f6-490e2a509c02&method=getConnection
+2025-07-22, 12:52:27.571 $1$30$CONNECTED
+2025-07-22, 12:52:27.586 http://saleszing.co.in/saleszingrest/webservice/restservice.php?key=8c0e0bd3-a2b1-4fa4-b7f6-490e2a509c02&method=postdummyitem&basedoctypeid=19&params=%7B%22branchname%22:%22kanimamenterprises1920997%22,%22from_date%22:%222025-07-22%22,%22todate%22:%222025-07-22%22%7D
+2025-07-22, 12:52:27.672 {"items":[]}
+2025-07-22, 12:52:27.672 http://saleszing.co.in/saleszingrest/webservice/restservice.php?key=8c0e0bd3-a2b1-4fa4-b7f6-490e2a509c02&method=postItem&basedoctypeid=19&params=%7B%22branchname%22:%22kanimamenterprises1920997%22,%22from_date%22:%222025-07-22%22,%22todate%22:%222025-07-22%22%7D
+2025-07-22, 12:52:27.757 2025-07-22 12:52 Error: [Line: 4612, File: D:\cwwebsites\saleszingrest\webservice\restservice.php Code: 8] 
+ Undefined variable: branchid 
+ Method: , Data:  
+<br />
+2025-07-22 12:52 Error: [Line: 4619, File: D:\cwwebsites\saleszingrest\webservice\restservice.php Code: 8] 
+ Undefined variable: branchid 
+ Method: , Data:  
+<br />
+2025-07-22 12:52 Error: [Line: 4628, File: D:\cwwebsites\saleszingrest\webservice\restservice.php Code: 2] 
+ mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given 
+ Method: , Data:  
+<br />
+{"items":false}
+2025-07-22, 12:52:27.772 http://saleszing.co.in/saleszingrest/webservice/restservice.php?key=8c0e0bd3-a2b1-4fa4-b7f6-490e2a509c02&method=postLedger&basedoctypeid=19&params=%7B%22branchname%22:%22kanimamenterprises1920997%22,%22from_date%22:%222025-07-22%22,%22todate%22:%222025-07-22%22%7D
+2025-07-22, 12:52:27.842 {"ledgers":false}
